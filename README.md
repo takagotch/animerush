@@ -1,6 +1,6 @@
-### o
+### animerush
 ---
-
+https://animerush.tv/
 
 ```
 ```
